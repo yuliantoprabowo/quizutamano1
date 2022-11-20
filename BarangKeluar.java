@@ -52,5 +52,5 @@ public class BarangKeluar {
 
     public void setHarga(Integer harga) {
         this.harga = harga;
-    }
+    }  
 }
