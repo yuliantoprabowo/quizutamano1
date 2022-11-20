@@ -1,4 +1,4 @@
-package quizutamano1;
+package quizutamano1;  
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
