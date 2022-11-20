@@ -61,5 +61,5 @@ public class BarangMasuk {
 
     public void setHarga(Integer harga) {
         this.harga = harga;
-    }
+    }  
 }
